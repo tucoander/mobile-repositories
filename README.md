@@ -14,7 +14,7 @@
             <ul>
                 <li>Clonar o repositório</li>
                 <br>
-                <code>git clone https://github.com/tucoander/frontend-repositories.git</code>
+                <code>git clone https://github.com/tucoander/mobile-repositories.git</code>
                 <br>
                 <br>
                 <li>Atualizar as dependências</li>
